@@ -34,7 +34,7 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=171515&icon_color=8ac926&text_color=daf7dc&bg_color=171515&hide=["stars"])
+![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=daf7dc&bg_color=ff0000&hide=["stars"])
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaushan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HarshitRaushan/github-readme-stats)
 
 <!--START_SECTION:waka-->
