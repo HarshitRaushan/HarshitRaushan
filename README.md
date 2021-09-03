@@ -34,7 +34,7 @@
 
  ---
  ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
- ![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff4000&bg_color=151515&hide=["stars"])
+ ![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff6464&bg_color=151515&hide=["stars"])
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaushan&layout=compact&title_color=8a30ff&text_color=ff6464&bg_color=151515)](https://github.com/HarshitRaushan/github-readme-stats)
  [![Harshit Raushan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitRaushan&theme=buefy-dark)](https://git.io/streak-stats)
 
