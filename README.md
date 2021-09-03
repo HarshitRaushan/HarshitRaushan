@@ -72,8 +72,8 @@
 
  ---
 
- ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog Coming Soon!!!
-![Harshit Raushan](https://github.com/HarshitRaushan/harshitraushan.github.io/blob/main/images/pixelmatrix.gif?raw=true)
+ ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Website!
+![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
 
  ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
