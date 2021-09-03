@@ -11,7 +11,7 @@
  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
  - 🏦 I'm a Programmer.
        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- - 🌱 I’m looking to collaborate on AI/U
+ - 🌱 I’m looking to collaborate on AI/UI.
  - 💻 I use daily **Python**, **Java**, **Swift**.
  - 📖 I am currently reading [The Clean Coder by Robert C.Martin.](https://www.amazon.in/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y)
  - 💬 Talk to me about Programming, Python & Perfectionism.
