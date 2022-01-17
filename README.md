@@ -74,10 +74,9 @@
  ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Website!
 ![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
-
+ ---
  ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Quote:
  <a href="https://github.com/marketplace/actions/quote-readme">
- ---
  <!--STARTS_HERE_QUOTE_README-->
  • <i>“Lorem Ipsum Dolor Sit Du Amet Consectetuer"</i>
  <!--ENDS_HERE_QUOTE_README-->
