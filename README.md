@@ -1,4 +1,4 @@
-# Hey There! I'm Harshit HRX Raushan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45">
+# Hey There! I'm Harshit HRX Raushan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="69">
  <a href="https://twitter.com/aechaare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aechaare" height="30" width="30" /></a>&nbsp;
  <a href="https://www.linkedin.com/in/harshit-raushan-b407b1213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-raushan" height="30" width="30" /></a>&nbsp;
  <a href="http://discord.com/users/ÆÆ#7413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ÆÆ#7413" height="40" width="30" /></a>&nbsp;
@@ -74,7 +74,7 @@
 ![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
  ---
- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="45" /> A Famous Quote:
+ ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="69" /> A Famous Quote:
  <a href="https://github.com/marketplace/actions/quote-readme">
  <!--STARTS_HERE_QUOTE_README-->
  • <i>“Lorem Ipsum Dolor Sit Du Amet Consectetuer"</i>
@@ -83,5 +83,5 @@
 
  ---
 
- ### Here's some humor for you:
+ ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='69'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=%23000000&qColor=%238a30ff&textColor=23ff6464&aColor=%23ff6464&codeColor=%23ff6464" alt="Jokes Card" />
