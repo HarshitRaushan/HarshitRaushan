@@ -32,8 +32,7 @@
  </p>
 
  ---
-### <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='39'/>
- My Github Stats:
+### <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='39'/> My Github Stats:
   ![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff6464&bg_color=000000&hide_border=true&hide=["stars"])
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaushan&layout=compact&title_color=8a30ff&text_color=ff6464&hide_border=true&bg_color=000000)](https://github.com/HarshitRaushan/github-readme-stats)
  [![Harshit Raushan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitRaushan&theme=buefy-dark&hide_border=true&background=000000)](https://git.io/streak-stats)
