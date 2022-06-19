@@ -74,7 +74,7 @@
 ![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
  ---
- ### A Famous Quote:
+ ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="45" /> A Famous Quote:
  <a href="https://github.com/marketplace/actions/quote-readme">
  <!--STARTS_HERE_QUOTE_README-->
  • <i>“Lorem Ipsum Dolor Sit Du Amet Consectetuer"</i>
