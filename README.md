@@ -1,4 +1,4 @@
-# Hey There! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="42" align="centre" /> I'm Harshit HRX Raushan
+# Hey There! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="53" align="centre" /> I'm Harshit HRX Raushan
  <a href="https://twitter.com/aechaare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aechaare" height="30" width="30" /></a>&nbsp;
  <a href="https://www.linkedin.com/in/harshit-raushan-b407b1213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-raushan" height="30" width="30" /></a>&nbsp;
  <a href="http://discord.com/users/ÆÆ#7413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ÆÆ#7413" height="40" width="30" /></a>&nbsp;
@@ -7,7 +7,7 @@
 
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img alt="Coder GIF" width=42 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> About Me:
+### <img alt="Coder GIF" width=53 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> About Me:
  - 🏦 I'm a Programmer.
        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I’m looking to collaborate on AI/UI.
@@ -32,7 +32,7 @@
  </p>
 
  ---
-### <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='39'/> My Github Stats:
+### <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='53'/> My Github Stats:
   ![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff6464&bg_color=000000&hide_border=true&hide=["stars"])
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaushan&layout=compact&title_color=8a30ff&text_color=ff6464&hide_border=true&bg_color=000000)](https://github.com/HarshitRaushan/github-readme-stats)
  [![Harshit Raushan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitRaushan&theme=buefy-dark&hide_border=true&background=000000)](https://git.io/streak-stats)
