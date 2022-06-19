@@ -32,7 +32,7 @@
  </p>
 
  ---
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### My Github Stats:
   ![Harshit Raushan's github stats](https://github-readme-stats.vercel.app/api?username=HarshitRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff6464&bg_color=000000&hide_border=true&hide=["stars"])
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaushan&layout=compact&title_color=8a30ff&text_color=ff6464&hide_border=true&bg_color=000000)](https://github.com/HarshitRaushan/github-readme-stats)
  [![Harshit Raushan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitRaushan&theme=buefy-dark&hide_border=true&background=000000)](https://git.io/streak-stats)
@@ -70,11 +70,11 @@
 
  ---
 
- ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Website!
+ ### My Website!
 ![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
  ---
- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Quote:
+ ### A Famous Quote:
  <a href="https://github.com/marketplace/actions/quote-readme">
  <!--STARTS_HERE_QUOTE_README-->
  • <i>“Lorem Ipsum Dolor Sit Du Amet Consectetuer"</i>
@@ -83,5 +83,5 @@
 
  ---
 
- ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+ ### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=%23000000&qColor=%238a30ff&textColor=23ff6464&aColor=%23ff6464&codeColor=%23ff6464" alt="Jokes Card" />
