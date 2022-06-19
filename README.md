@@ -44,7 +44,6 @@
 
  ```text
  🌞 Morning    0 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
- 🌆 Daytime    0 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
  🌃 Evening    0 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
  🌙 Night      0 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
@@ -74,7 +73,7 @@
 ![Harshit Raushan](https://github.com/HarshitRaushan/MISCELLANEOUS/blob/main/Untitled.gif?raw=true)
  ---
  ---
- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="69" /> A Famous Quote:
+ ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="63" /> A Famous Quote:
  <a href="https://github.com/marketplace/actions/quote-readme">
  <!--STARTS_HERE_QUOTE_README-->
  • <i>“Lorem Ipsum Dolor Sit Du Amet Consectetuer"</i>
