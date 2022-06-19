@@ -1,4 +1,4 @@
-# Hey There! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="24" align="centre" /> I'm Harshit HRX Raushan
+# Hey There! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="35" align="centre" /> I'm Harshit HRX Raushan
  <a href="https://twitter.com/aechaare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aechaare" height="30" width="30" /></a>&nbsp;
  <a href="https://www.linkedin.com/in/harshit-raushan-b407b1213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-raushan" height="30" width="30" /></a>&nbsp;
  <a href="http://discord.com/users/ÆÆ#7413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ÆÆ#7413" height="40" width="30" /></a>&nbsp;
