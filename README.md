@@ -1,4 +1,4 @@
-# Hey There! I'm Harshit HRX Raushan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3px">
+# Hey There! I'm Harshit HRX Raushan 
  <a href="https://twitter.com/aechaare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aechaare" height="30" width="30" /></a>&nbsp;
  <a href="https://www.linkedin.com/in/harshit-raushan-b407b1213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-raushan" height="30" width="30" /></a>&nbsp;
  <a href="http://discord.com/users/ÆÆ#7413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ÆÆ#7413" height="40" width="30" /></a>&nbsp;
